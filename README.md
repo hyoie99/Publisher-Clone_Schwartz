@@ -1,5 +1,3 @@
 # clone-schwartz
 
-Clone "Schwartz"
-
-https://schwartzmedia.com.au
+> https://hyoie99.github.io/Publisher-Clone_Schwartz/
